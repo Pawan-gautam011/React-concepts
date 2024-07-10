@@ -33,8 +33,6 @@ const Navbar = () => {
       }
     }
   `
-
-
   return( 
   <Nav>
     <div className="menuIcon">
